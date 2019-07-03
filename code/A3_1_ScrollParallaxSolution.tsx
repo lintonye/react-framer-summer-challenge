@@ -115,7 +115,7 @@ export function ScrollParallaxSolution() {
                 name={"title"}
                 width={1116}
                 height={726}
-                image="https://cdn.glitch.com/071e5391-90f7-476b-b96c-1f51f7106b0c%2Fimage.png?v=1560475177317"
+                image="https://cdn.glitch.com/071e5391-90f7-476b-b96c-1f51f7106b0c%2FScreen%20Shot%202019-06-30%20at%203.28.50%20PM.png?v=1561933756475"
             />
             <Frame
                 height={640}
