@@ -4,7 +4,7 @@ import { transform } from "framer"
 import "./styles.css"
 
 function Circle({ progress }) {
-    const pathRef = useRef()
+    const pathRef = useRef<SVGPathElement>()
     const [totalLength, setTotalLength] = useState(0)
     useEffect(() => {
         setTotalLength(pathRef.current.getTotalLength())
