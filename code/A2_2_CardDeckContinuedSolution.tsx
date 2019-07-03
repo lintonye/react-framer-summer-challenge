@@ -35,7 +35,12 @@ function Thumb({ up = false, animationProgress, ...props }) {
     )
 }
 
-function Card({ image, backgroundColor, onThumbUp, onThumbDown }) {
+function Card({
+    image,
+    backgroundColor,
+    onThumbUp = null,
+    onThumbDown = null,
+}) {
     const position = useMotionValue(0)
     const rotate = useTransform(position, [-200, 200], [-50, 50])
     const opacity = useTransform(
