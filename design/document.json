@@ -7053,10 +7053,10 @@
                     "html" : "<div data-offset-key=\"e5t8p-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"e5t8p-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:#333333;font-size:17px;letter-spacing:-0.41px;line-height:1.3\"><span data-text=\"true\">Profitez du standing d'exception d'un petit hôtel particulier niché dans une rue privée classée en séjournant dans ce confortable studio perché sous les toits. Son plancher en bois et sa cheminée en marbre créent un espace chaleureux et authentique.<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
-                      "height" : 550,
-                      "width" : 101
+                      "height" : 176,
+                      "width" : 276
                     },
-                    "width" : 100
+                    "width" : 275
                   },
                   "entityMap" : {
 
@@ -7149,10 +7149,10 @@
                     "html" : "<div data-offset-key=\"b9s5r-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"b9s5r-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:#333333;font-size:13px;letter-spacing:-0.41px;line-height:1.3\"><span data-text=\"true\">2 guests Studio 1 bed 1 bath<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
-                      "height" : 32,
-                      "width" : 101
+                      "height" : 16,
+                      "width" : 254
                     },
-                    "width" : 100
+                    "width" : 253
                   },
                   "entityMap" : {
 
@@ -7239,10 +7239,10 @@
                     "html" : "<div data-offset-key=\"9mef5-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"9mef5-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSDisplay&quot;, &quot;SFProDisplay-Regular&quot;, &quot;SFUIDisplay-Regular&quot;, &quot;.SFUIDisplay&quot;, sans-serif;-webkit-text-fill-color:#111;font-size:22px;letter-spacing:0.35px;line-height:1.27\"><span data-text=\"true\">Menez la grande vie parisienne dans le studio<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
-                      "height" : 135,
-                      "width" : 101
+                      "height" : 54,
+                      "width" : 261
                     },
-                    "width" : 100
+                    "width" : 260
                   },
                   "entityMap" : {
 

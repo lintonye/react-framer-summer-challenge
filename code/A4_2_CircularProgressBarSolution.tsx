@@ -8,7 +8,8 @@ const screenHeight = 812
 
 function CircularProgress({ progress }) {
     // Progress: [0, 100] ==> [779, 0]
-    const pathRef = useRef()
+    // useRef<..> here specifies what should go inside the ref, the container
+    const pathRef = useRef<SVGPathElement>()
     const offset = transform(progress, [0, 100], [779, 0])
     let [totalLength, setTotalLength] = useState(0)
     useEffect(function() {
