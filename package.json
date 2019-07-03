@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xr-blue": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-gold": "^1.0.0",
+		"@framer/framer.device-skin-apple-macbook-pro": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0 || ^0.10",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "684bc940-a9c5-4150-957f-013336c207fc"
+	},
+	"author": "Max Bredow",
+	"dependencies": {
+		"@framer/edoardo.ios-kit": "^1.6.0",
+		"@framer/kasimir.iphone-x-kit": "^1.21.0",
+		"recharts": "^1.6.2"
+	}
+}
