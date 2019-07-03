@@ -14,21 +14,18 @@ import "./styles.css"
 const screenWidth = 414
 const screenHeight = 896
 
-function PagePart({
-    image,
-    style = {
-        backgroundSize: "auto",
-        backgroundRepeat: "no-repeat",
-        backgroundPosition: "center",
-    },
-    ...props
-}) {
+function PagePart({ image = undefined, style = undefined, ...props }) {
     return (
         <Frame
             backgroundColor="transparent"
             position="relative"
             image={image}
-            style={style}
+            style={{
+                backgroundSize: "auto",
+                backgroundRepeat: "no-repeat",
+                backgroundPosition: "center",
+                ...style,
+            }}
             {...props}
         />
     )
